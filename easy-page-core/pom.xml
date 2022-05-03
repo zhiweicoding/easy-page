@@ -25,6 +25,11 @@
             <artifactId>junit</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>io.github.zhiweicoding</groupId>
+            <artifactId>easy-page-entity</artifactId>
+            <version>${project.version}</version>
+        </dependency>
     </dependencies>
 
     <build>
